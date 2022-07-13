@@ -1,0 +1,24 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-cli": "gulpjs/gulp-cli",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "gulp": "4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "resolutions": {
+    "graceful-fs": "^4.2.9"
+  }
+}
